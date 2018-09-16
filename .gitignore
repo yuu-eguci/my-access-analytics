@@ -1,0 +1,9 @@
+
+*~
+.DS_Store
+__pycache__/
+
+ga/
+
+# これは最後に書かないとダメ。
+!.gitkeep
