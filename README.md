@@ -2,7 +2,9 @@
 MyAccessAnalytics
 ===
 
-google analytics の解析結果を取得するライブラリ。
+PHP library which gets the result of Google Analytics.
+
+![](media/media.png)
 
 ## google-api-php-client
 
